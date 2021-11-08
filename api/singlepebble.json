@@ -1,0 +1,10 @@
+{
+    "id": "single-pebble",
+    "name": "A Single Pebble",
+    "address": "133 Bank Street",
+    "phone": "802-865-5200",
+    "hours": "4:30 pm - 8:30 pm",
+    "notes": "Their tangerine chicken is totally out of this world.",
+    "longitude": -73.2146,
+    "latitude": 44.4780
+}

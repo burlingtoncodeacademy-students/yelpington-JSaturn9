@@ -1,0 +1,10 @@
+{
+    "id": "sherpa-kitchen",
+    "name": "Sherpa Kitchen",
+    "address": "119 College Street",
+    "phone": "802-881-0550",
+    "hours": "11:00 am - 9:00 pm",
+    "notes": "The dumplings are delightful!",
+    "longitude": -73.2151,
+    "latitude": 44.4768
+}

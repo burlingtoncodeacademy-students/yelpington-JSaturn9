@@ -4,6 +4,7 @@
   "description": "Burlington Code Academy restaurant app",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "node sanityCheck.js"
   },
   "repository": {
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/BurlingtonCodeAcademy/yelpington#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "leaflet": "^1.7.1",
+    "react-leaflet": "^3.2.2"
   },
   "devDependencies": {}
 }

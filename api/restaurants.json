@@ -1,0 +1,82 @@
+[
+    {
+        "id": "shy-guy",
+        "name": "Shy Guy Gelato",
+        "address": "457 St. Paul Street",
+        "phone number": "802-355-2320",
+        "hours": "12:00 pm - 7:00 pm",
+        "notes": "Nectarine gelato that will knock your socks off!",
+        "longitude": -73.2101,
+        "latitude": 44.4674
+    },
+    {
+        "id": "tom-girl",
+        "name": "Tom Girl Kitchen",
+        "address": "266 Pine Street",
+        "phone number": "802-540-0337",
+        "hours": "8:00 am - 2:00 pm",
+        "notes": "Rosey almond milk is a fan favorite here.",
+        "longitude": -73.2144,
+        "latitude": 44.4723
+    },
+    {
+        "id": "sherpa-kitchen",
+        "name": "Sherpa Kitchen",
+        "address": "119 College Street",
+        "phone number": "802-881-0550",
+        "hours": "11:00 am - 9:00 pm",
+        "notes": "The dumplings are delightful!",
+        "longitude": -73.2151,
+        "latitude": 44.4768
+    },
+    {
+        "id": "single-pebble",
+        "name": "A Single Pebble",
+        "address": "133 Bank Street",
+        "phone number": "802-865-5200",
+        "hours": "4:30 pm - 8:30 pm",
+        "notes": "Their tangerine chicken is totally out of this world.",
+        "longitude": -73.2146,
+        "latitude": 44.4780
+    },
+    {
+        "id": "skinny-pancake",
+        "name": "The Skinny Pancake",
+        "address": "60 Lake Street",
+        "phone number": "802-540-0188",
+        "hours": "8:00 am - 3:00 pm",
+        "notes": "Solid local fare on crepes.",
+        "longitude": -73.2197,
+        "latitude": 44.4772
+    },
+    {
+        "id": "pho-hong",
+        "name": "Pho Hong",
+        "address": "325 N Winooski Avenue",
+        "phone number": "802-865-8031",
+        "hours": "11:00 am - 10:00 pm",
+        "notes": "Popular BYOB spot for Vietnamese noodle soups & other traditional dishes in a casual setting.",
+        "longitude": -73.2071,
+        "latitude": 44.4888
+    },
+    {
+        "id": "the-farmhouse",
+        "name": "The Farmhouse Tap & Grill",
+        "address": "160 Bank Street",
+        "phone number": "802-859-0888",
+        "hours": "4:00 pm - 10:00 pm",
+        "notes": "Farm-to-table gastropub & seasonal beer garden showcasing burgers & craft brews.",
+        "longitude": -73.212074,
+        "latitude": 44.475883
+    },
+    {
+        "id": "el-gato",
+        "name": "El Gato Cantina",
+        "address": "169 Church Street",
+        "phone number": "802-540-3095",
+        "hours": "11:30 am - 9:00 pm",
+        "notes": "Festive, casual Tex-Mex taqueria offering house-infused tequilas & a lengthy margarita menu.",
+        "longitude": -73.2126,
+        "latitude": 44.4755
+    }
+]
