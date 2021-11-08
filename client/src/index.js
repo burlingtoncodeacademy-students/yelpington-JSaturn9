@@ -1,11 +1,15 @@
+//Import React into application
 import React from 'react';
+//Imports ReactDOM into application
 import ReactDOM from 'react-dom';
-import './index.css';
+//imports App component
 import App from './App';
+//Imports reportWebVitals to measure performance the app
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* Bringing in App component */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')

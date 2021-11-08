@@ -1,0 +1,10 @@
+{
+    "id": "el-gato",
+    "name": "El Gato Cantina",
+    "address": "169 Church Street",
+    "phone": "802-540-3095",
+    "hours": "11:30 am - 9:00 pm",
+    "notes": "Tex-Mex taqueria offering house-infused tequilas.",
+    "longitude": -73.2126,
+    "latitude": 44.4755
+}
